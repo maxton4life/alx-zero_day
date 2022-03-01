@@ -1,17 +1,23 @@
-# Here is a list of git command used for the alx git introductory project
+#Here's a list of git command used for the  alx-zero project.
 
-- git status
-- git add
-- git reset
-- git commit
-- git branch 
-- git checkout -b
-- git reset --hard 
-- git push
-- git pull
+git init
 
+git clone
 
-# Learning git has been a refreshing experience for me.... i am grateful for this opportunity from ALX.
+git add
 
-# thanks 
- 
+git status
+
+git commit
+
+git push
+
+git reset
+
+git branch
+
+git checkout 
+
+git reset 
+
+git merge 
